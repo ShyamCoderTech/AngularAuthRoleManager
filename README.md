@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authentication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# AngularAuthRoleManager
+AngularAuthRoleManager offers robust authentication and role-based access control on Angular, with JSON Server integration for efficient data handling and security measures for data integrity.
+>>>>>>> origin/master
