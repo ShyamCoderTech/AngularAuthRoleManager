@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Shyam Sharma",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "Shyam",
+      "name": "Shyam",
+      "password": "Shyam@823820",
+      "email": "Shyam@823820",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "vvvvvvvv",
+      "name": "vvvvvv",
+      "password": "Shyam@823820",
+      "email": "Shyam@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
